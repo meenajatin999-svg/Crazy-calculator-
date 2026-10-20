@@ -1,0 +1,15 @@
+{
+  "name": "Study Calculator",
+  "short_name": "Study Calc",
+  "description": "A scientific calculator for students with a unit converter and physical constants.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF0F6",
+  "theme_color": "#2543C8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
